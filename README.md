@@ -55,7 +55,14 @@ I enjoy contributing to **open-source** projects and sharing knowledge with the 
 - [LinkedIn](https://www.linkedin.com/in/isidore-amevigbe-8727bb175/)
 - [Email](mailto:amevigbe41@gmail.com)
 
----
+## 🧠 LeetCode Stats
+
+Check out my coding practice on LeetCode!
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/amevigbe41)](https://leetcode.com/amevigbe41)
+
+## 🧠 Github Stats
 
 ![Isidore-2001's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isidore-2001&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isidore-2001&layout=compact)
