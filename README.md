@@ -26,23 +26,6 @@ At **Worldline**, I contribute to developing secure, high-performance web applic
 - **DevOps & Tools**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white), ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white), ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white), ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab&logoColor=white), **GitHub**, **CI/CD pipelines**, **JMeter**
 - **Cloud Platforms**: ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black), **Google Cloud**, **AWS**
 
-## 🚀 Featured Projects
-
-### [Medical Record Management System]()
-A comprehensive system for managing medical records, appointments, and examinations, built using **Spring Boot** and **Angular**. Integrated **Keycloak** for secure authentication and authorization, ensuring user data privacy.
-
-**Tech stack**: Spring Boot, Angular, Keycloak, MySQL, Docker, Ansible
-
-### [API Integration Proof of Concept (POC)]()
-This POC demonstrates the feasibility of integrating an external API with the existing system architecture, using **Spring Boot** and **Keycloak** for authentication. The project served as the foundation for future system integrations and API developments.
-
-**Tech stack**: Java, Spring Boot, Keycloak, Docker
-
-### [Platine Back Office]()
-Developed the back-office for a platform that enhanced operational efficiency. My role involved writing **clean code**, ensuring best practices, and working on continuous integration with **GitHub Actions** and **Firebase** for security management.
-
-**Tech stack**: Angular, Firebase, GitHub Actions
-
 ## 🌍 Open Source & Community Contributions
 
 I enjoy contributing to **open-source** projects and sharing knowledge with the development community. My open-source work involves building tools that streamline automation processes and improve developer productivity.
