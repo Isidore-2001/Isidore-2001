@@ -6,17 +6,6 @@ With strong technical skills and the ability to work collaboratively with divers
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-## 💼 Professional Experience
-
-### Software Engineer at Worldline (October 2022 – August 2024)
-At **Worldline**, I contribute to developing secure, high-performance web applications by leveraging a full-stack approach. Key responsibilities include:
-
-- **Back-end development** using **Spring Boot**, **Java**, and **MySQL** for scalable and robust services.
-- Building **front-end solutions** using **Angular**, focusing on user-friendly and responsive interfaces.
-- Securing applications with **Keycloak** for identity and access management, ensuring that user authentication and authorization are handled smoothly.
-- Collaborating on the migration of deployment processes using **Ansible** to automate provisioning and configuration management.
-- Creating **Proof of Concept (POC)** to validate new integrations and proposing scalable API interface solutions.
-
 ## 🛠️ Tech Stack & Tools
 
 - **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E), ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
